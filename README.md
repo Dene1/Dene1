@@ -18,8 +18,11 @@
 ## Currently working on
 <br/>
 
+<div align="center">
+ 
 [![Shop](https://svg.bookmark.style/api?url=https://github.com/Dene1/shop&mode=dark&style=horizontal)](https://github.com/Dene1/shop)
 
+</div>
 <h2>🔥 Tech stack</h2>
 
 > General
