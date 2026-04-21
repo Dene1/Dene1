@@ -43,25 +43,25 @@
       <a href="#denel-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
       </a>
-      <br>javascript
+     javascript
     </td>
     <td align="center" width="110" height="90">
       <a href="#denel-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
-      <br>typescript
+     typescript
     </td>
     <td align="center" width="110" height="90">
       <a href="#denel-stack" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
       </a>
-      <br>figma
+     figma
     </td>
     <td align="center" width="110" height="90">
       <a href="#denel-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
       </a>
-      <br>git
+     git
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#denel-stack">
@@ -98,7 +98,7 @@
       <a href="#denel-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" width="36" height="36" alt="prettier" />
       </a>
-      <br>prettier
+     prettier
     </td>
   </tr> 
 </table>
@@ -119,7 +119,7 @@
       <a href="#denel-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
-      <br>Redux
+  Redux
     </td>
    <td align="center" width="110" height="90">
       <a href="#denel-stack" >
@@ -132,7 +132,7 @@
       <a href="#denel-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
       </a>
-      <br>Bootstrap
+    Bootstrap
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#denel-stack" >
@@ -156,7 +156,7 @@
       <a href="#denel-stack">
         <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="36" height="36" alt="Styled-components" />
       </a>
-      <br>Styled
+        Styled
     </td>
   </tr> 
 </table>
@@ -175,7 +175,7 @@
       <a href="#denel-stack" >
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
       </a>
-      <br>Express
+     Express
     </td>
     <td align="center" width="110" height="90">
       <a href="#denel-stack" >
