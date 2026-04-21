@@ -18,7 +18,7 @@
 
 <div align="center">
  
-[![Shop](https://svg.bookmark.style/api?url=https://github.com/Dene1/shop&mode=dark&style=horizontal)](https://github.com/Dene1/shop)
+[![My Website](https://svg.bookmark.style/api?url=https://github.com/Dene1/my-website&mode=dark&style=horizontal)](https://github.com/Dene1/my-website)
 
 </div>
 <h2>🔥 Tech stack</h2>
